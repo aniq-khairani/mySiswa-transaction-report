@@ -3,7 +3,7 @@
 remark: data shown is not the latest as it is 
 
 ## 📊 Dashboard Preview
-![Dashboard](images/mySiswa_pg1.png)
+![Dashboard](images/mySiswa_p1.png)
 
 ## 🚀 Live Demo
 - [View Power BI Dashboard](https://app.powerbi.com/view?r=example)
